@@ -37,4 +37,5 @@ I enjoy building clean, well-documented ML projects and deploying them with **Fl
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *add your link here*
+- Gmail: dhruvit.vala2005@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruvit-vala
