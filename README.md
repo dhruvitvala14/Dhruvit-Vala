@@ -8,7 +8,7 @@ I enjoy building clean, well-documented ML projects and deploying them with **Fl
 
 ## 🔥 Skills & Tools
 - **Languages:** Python, SQL  
-- **ML:** Scikit-learn, XGBoost, Regression, Classification  
+- **ML:** Scikit-learn, Regression, Classification  
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Deployment:** Flask  
 - **Other:** Git, GitHub, Jupyter Notebook
@@ -25,7 +25,7 @@ I enjoy building clean, well-documented ML projects and deploying them with **Fl
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvitvala&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvitvala14&show_icons=true)
 
 ---
 
